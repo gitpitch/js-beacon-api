@@ -1,0 +1,15 @@
+layout : top-left
+
+theme : moon
+theme-override : assets/css/PITCHME.css
+
+logo : assets/img/w3c.png
+logo-position : top-right
+
+transition : none
+
+print-fragments : true
+
+footnote : "<a target='_blank' href='https://gitpitch.com/docs'>Learn more about GitPitch - The Markdown Presentation Service on Git right here.</a>"
+
+# highlight : atom-one-dark

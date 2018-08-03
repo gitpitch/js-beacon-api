@@ -1,0 +1,55 @@
+body {
+  background: #C773A7;
+  background-color: #C773A7;
+}
+
+.invert {
+  color: black;
+}
+
+.shout {
+  font-size: 3em !important;
+}
+
+.usecase {
+  color: black;
+  letter-spacing: 0.1em;
+  font-size: 0.6em !important;
+  font-weight: bold !important;
+}
+
+.continuation {
+  color: black;
+  font-size: 0.8em !important;
+  font-variant: small-caps !important;
+}
+
+.linkout a {
+  font-size: 0.6em !important;
+}
+
+.reveal, .reveal a {
+  color: white;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  color: white;
+}
+
+.reveal pre {
+  width: 100%;
+  box-shadow : none;
+}
+
+.reveal pre code {
+  font-size: 1.2em;
+  line-height: 1.2;
+  max-height: 55vh !important;
+  border-radius: 10px;
+}
+
+.reveal ul {
+  list-style-type: square;
+  list-style-position: inside;
+}
+
